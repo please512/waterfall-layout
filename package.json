@@ -1,0 +1,11 @@
+﻿{
+  "name": "zy-waterfall-layout",
+  "version": "1.0.3",
+  "description": "readme更新指引",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "李正阳",
+  "license": "ISC"
+}
