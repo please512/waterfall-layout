@@ -1,5 +1,5 @@
 ### 展示效果如下
-![avatar](/picture.png)
+![Image text](https://raw.githubusercontent.com/please512/waterfall-layout/master/picture.png)
 
 ### js安装
 ```javascript
@@ -12,29 +12,31 @@ import waterfall from 'waterfall-layout'
 ### html使用（div实际使用时自动撑起高度）
 ```html
 ...
-<div style="height:200px;"></div>
-<div style="height:190px;"></div>
-<div style="height:170px;"></div>
-<div style="height:220px;"></div>
-<div style="height:180px;"></div>
-<div style="height:457px;"></div>
-<div style="height:21px;"></div>
-<div style="height:240px;"></div>
-<div style="height:234px;"></div>
-<div style="height:221px;"></div>
-<div style="height:54px;"></div>
-<div style="height:134px;"></div>
-<div style="height:297px;"></div>
-<div style="height:187px;"></div>
-<div style="height:219px;"></div>
-<div style="height:460px;"></div>
-<div style="height:187px;"></div>
-<div style="height:87px;"></div>
-<div style="height:321px;"></div>
-<div style="height:213px;"></div>
-<div style="height:209px;"></div>
-<div style="height:291px;"></div>
-<div style="height:187px;"></div>
+<div class="hello">
+    <div style="height:200px;"></div>
+    <div style="height:190px;"></div>
+    <div style="height:170px;"></div>
+    <div style="height:220px;"></div>
+    <div style="height:180px;"></div>
+    <div style="height:457px;"></div>
+    <div style="height:21px;"></div>
+    <div style="height:240px;"></div>
+    <div style="height:234px;"></div>
+    <div style="height:221px;"></div>
+    <div style="height:54px;"></div>
+    <div style="height:134px;"></div>
+    <div style="height:297px;"></div>
+    <div style="height:187px;"></div>
+    <div style="height:219px;"></div>
+    <div style="height:460px;"></div>
+    <div style="height:187px;"></div>
+    <div style="height:87px;"></div>
+    <div style="height:321px;"></div>
+    <div style="height:213px;"></div>
+    <div style="height:209px;"></div>
+    <div style="height:291px;"></div>
+    <div style="height:187px;"></div>
+</div>
 ...
 ```
 ### js使用
