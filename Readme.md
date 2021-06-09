@@ -1,3 +1,5 @@
+### 展示效果如下
+![avatar](/picture.png)
 
 ### js安装
 ```javascript
